@@ -9,7 +9,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes
 
 # ================= CONFIG =================
-BOT_TOKEN = ("8280308316:AAFn9xj_uKBOhGBBf9vSf2FOR11AxFdq5TU")
+BOT_TOKEN = ("AAFn9xj_uKBOhGBBf9vSf2FOR11AxFdq5TU")
 SUBSCRIBERS_FILE = "subscribers.txt"
 
 # ----- PDL/PDH CONFIG -----
@@ -250,3 +250,4 @@ def main():
 
 if __name__=="__main__":
     main()
+
