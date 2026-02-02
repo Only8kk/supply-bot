@@ -1,0 +1,4 @@
+ccxt
+pandas
+matplotlib
+python-telegram-bot==20.3
